@@ -11,3 +11,5 @@ Temos que ter o seguinte resultado: Full Cycle Rocks!!
 Obs: A imagem de nosso projeto Go precisa ter menos de 2MB =)
 
 ## Link da imagem no docker-hub
+
+https://hub.docker.com/r/marcosfalves/fullcycle
